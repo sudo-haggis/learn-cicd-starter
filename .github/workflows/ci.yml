@@ -19,5 +19,5 @@ jobs:
           go-version: "1.23.0"
 
       - name: Version GO
-        uses: actions/go-version
+        uses: actions/version
         
